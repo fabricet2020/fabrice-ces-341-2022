@@ -1,0 +1,25 @@
+{
+  "name": "fabrice-ces-341-2022",
+  "version": "1.0.0",
+  "description": "Code given to me by the instructor for CES 341 - Week 01",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabricet2020/fabrice-ces-341-2022.git"
+  },
+  "author": "Fabrice Tshiyoyi Banyingela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabricet2020/fabrice-ces-341-2022/issues"
+  },
+  "homepage": "https://github.com/fabricet2020/fabrice-ces-341-2022#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "save": "^2.5.0"
+  }
+}
